@@ -11,7 +11,7 @@ To write a python program to perform stop and wait protocol
 6. Stop the Program
 ## PROGRAM:
 ### Developed By : Jeevan E S
-### Register No: 212223230091
+### Register No : 212223230091
 ## Client Program:
 ```
 import socket
